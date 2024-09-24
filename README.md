@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+[![MasterHead](C:\Users\dinak\OneDrive\Desktop)]
 
 <h1 align="center">Hi 👋, I'm DINAKARAN</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
