@@ -21,7 +21,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinakaranthiru&show_icons=true&locale=en&layout=compact" alt="dinakaranthiru" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dinakaranthiru&show_icons=true&locale=en" alt="dinakaranthiru" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinakaranthiru&" alt="dinakaranthiru" /></p>
 
