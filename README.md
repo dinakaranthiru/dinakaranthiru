@@ -1,7 +1,7 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
-## Hello World!, I'm Dina, a Front Developer 👋🏼
- a Frontend Developer skilled in HTML5, CSS3, JavaScript, and React.js.  
+## Hello World!, I'm Dina, a Front Developer 👋🏼:
+A Frontend Developer skilled in HTML5, CSS3, JavaScript, and React.js.  
 I also have experience with MongoDB and deployment tools like Vercel and Netlify.  
 Passionate about building responsive, user-friendly web applications and always eager to learn more.
 
