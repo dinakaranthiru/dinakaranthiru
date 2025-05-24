@@ -1,4 +1,4 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+![banner](https://user-images.githubusercontent.com/61261654/114380542-d3314f80-9ba7-11eb-847c-31ba132fb4b8.png)
 
 ## Hello World!, I'm Dina, a Front Developer 👋🏼:
 A Frontend Developer skilled in HTML5, CSS3, JavaScript, and React.js.  
